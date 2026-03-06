@@ -1,0 +1,5 @@
+{
+  "name": "Remix: 오늘의 할 일 & 성과 (Today's To-Do & Achievements)",
+  "description": "An application to help users efficiently manage daily tasks and learning, and improve productivity. Features include to-do list management, a Pomodoro-style timer, category and priority settings, daily performance summaries, data export, and AI-based productivity analysis.",
+  "requestFramePermissions": []
+}
